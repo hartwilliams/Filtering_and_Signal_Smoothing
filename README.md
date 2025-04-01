@@ -1,1 +1,1 @@
-# Filtering
+This is a programming assignment I did for CSDS 364: Computational Perception. The focus of the assignment was implementing signal filters such as low-pass, high-pass and bandpass filters. I completed the assignment in Jupyter notebook, writing code in Python with libraries such as Matplotlib and NumPy, and writing explanations in Markdown with LaTeX for mathematical formulas. The function output may contain some errors.
